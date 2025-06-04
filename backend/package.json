@@ -1,5 +1,5 @@
 {
-  "name": "Ghar mai Kaksha",
+  "name": "Ghar-mai-Kaksha",
   "version": "1.0.0",
   "description": "full stack course-selling-app",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "start": "nodemon index.js"
   },
   "keywords": [
-    "Ghar mai Kaksha",
+    "Ghar-mai-Kaksha"
   ],
   "author": "Sameer Ahmad",
   "license": "ISC",
